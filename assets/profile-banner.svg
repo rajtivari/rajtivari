@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Raj Tivari — Developer</title><desc id="desc">Minimal premium banner with an ivory background, charcoal typography, and a subtle geometric blue accent.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dbeafe"/><stop offset="1" stop-color="#a5b4fc"/></linearGradient></defs>
+<rect width="1200" height="300" rx="18" fill="#f5f3ee"/>
+<circle cx="1050" cy="90" r="155" fill="url(#g)" opacity=".45"/>
+<path d="M950 0 L1200 0 L1200 300 L1090 260 Z" fill="#c7d2fe" opacity=".5"/>
+<path d="M1015 0 L1165 300 L1080 300 L930 0 Z" fill="#334155" opacity=".08"/>
+<text x="72" y="76" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="5" fill="#64748b">DEVELOPER · BUILDER · STUDENT</text>
+<text x="68" y="165" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-2" fill="#111827">RAJ TIVARI</text>
+<text x="72" y="210" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#475569">Building useful software with thoughtful design.</text>
+<rect x="72" y="244" width="56" height="4" rx="2" fill="#6366f1"/>
+<text x="142" y="251" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="2" fill="#64748b">BENGALURU, INDIA</text>
+</svg>
